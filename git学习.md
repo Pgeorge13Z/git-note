@@ -54,6 +54,7 @@ git merge --abort
 
 13. 建立github仓库 并提交本地仓库到远端 (建立github时会提示)
 ![github推送](./github推送.png)
+git remote //查看远程仓库
 git remote add origin +地址   //给地址起别名
 git branch -M main  //给分支改名
 git push -u origin main
